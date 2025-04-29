@@ -36,13 +36,6 @@ com.xpevendas.api
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/sistema-de-vendas.git
-   cd sistema-de-vendas
-
-
-1. Clone o repositório:
-
-   ```bash
    git clone https://github.com/toninho101/XPEDesafioFinal.git
    cd XPEDesafioFinal
 
